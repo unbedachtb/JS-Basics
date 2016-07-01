@@ -12,7 +12,9 @@ var name = 'Tyler';
 //Create a function called getName that uses prompt() to prompt the user for their name, then returns the name.
 
 
-  //Code Here
+  function getName() {
+    var name2 = prompt("What is your name?");
+  }
 
 
 //////////////////PROBLEM 3////////////////////
@@ -53,7 +55,7 @@ var name = 'Tyler';
 //Create a function called myName that returns your name
 
   //Code Here
-  
+
 
 
 //Now save the function definition of myName into a new variable called newMyName
